@@ -1,0 +1,11 @@
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# grunt-aws-lambda distribution directory
+dist
+
+# Dependency directories
+node_modules
+
+# Environment Variables
+env.json

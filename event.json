@@ -1,0 +1,12 @@
+{ 
+  "braintreeSale": {
+    "amount": "53.00",
+    "paymentMethodNonce": "fake-valid-nonce",
+    "customer": {
+       "firstName": "Testfirst" 
+    },
+    "options": {
+        "submitForSettlement": "true"
+    }
+  }
+}
